@@ -7,3 +7,10 @@ I used Logistic regression because of discrete outcome that we need. If you open
 of creating the model.
 
 ## Used Libraries:
+• Numpy – It provides a fast numerical array structure and operating functions.
+
+• pandas – It provides tools for data storage, manipulation and analysis tasks.
+
+• Scikit-Learn – The required machine learning library in Python.
+
+• Matplotlib – It is the basic plotting library in Python. It provides tools for making plots.
